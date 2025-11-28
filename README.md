@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" />
   
   <h1 align="center">Hi there, I'm YaanFzl! <img src="https://media.giphy.com/media/hvRJCLFzcuMiM/giphy.gif" width="30px"></h1>
   <h3 align="center">🚀 Vibe Coding Final Boss | Mobile & AI Enthusiast 🤖</h3>
