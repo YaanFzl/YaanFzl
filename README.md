@@ -38,20 +38,18 @@
 ### 🔭 Featured Projects
 
 <div align="center">
-  <a href="https://yaan.space">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=My%20Portfolio&fontSize=40&fontColor=ffffff&desc=Check%20out%20my%20best%20work%20at%20yaan.space&descFontSize=20&fontAlignY=40" width="100%" alt="Portfolio Banner"/>
-  </a>
+
 </div>
 
 <br>
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Soft Computing](https://soft-computing-web3-production.up.railway.app/)** | 🧠 **Intelligent Systems**<br>Advanced computational intelligence models including Neural Networks and Fuzzy Logic. | `AI` `Soft Computing` |
+| **[Soft Computing](https://soft-computing-web3-production.up.railway.app/)** | 🧠 **Soft Computing Playground**<br>Advanced computational intelligence models including Neural Networks and Fuzzy Logic. | `AI` `Soft Computing` |
 | **[TugasVisiKomputer](https://tugasvisikomputer-production.up.railway.app/)** | 👁️ **Computer Vision Experiments**<br>Explorations in image processing, feature extraction (GLCM), and pattern recognition. | `Python` `OpenCV` `Streamlit` |
-| **[NetWeb](https://net-web-gamma.vercel.app/)** | 🌐 **Network & Web Infrastructure**<br>Building robust web solutions and networking simulations. | `Web` `Networking` |
-| **[Vantage](https://vantage-dusky-alpha.vercel.app/)** | ⚡ **Advanced System Tools**<br>High-performance utilities and system optimization tools. | `System` `Optimization` |
-| **[InfiniteVisual](https://infinite-visual.vercel.app/)** | 🎨 **Creative Visualization**<br>Pushing the boundaries of graphics and visual storytelling. | `Graphics` `Visualization` |
+| **[NetWeb](https://net-web-gamma.vercel.app/)** | 🌐 **Landing Page**<br>Website for a network comapny. | `Web` `Networking` |
+| **[Vantage](https://vantage-dusky-alpha.vercel.app/)** | ⚡ **Crypto Market Exchange Lookalike**<br>Institutional-grade analytics for the digital asset markets. Aggregated liquidity, sub-millisecond latency, and algorithmic detection. | `System` `Optimization` |
+| **[InfiniteVisual](https://infinite-visual.vercel.app/)** | 🎨 **Creative Visualization**<br>Pushing the boundaries of graphics and visual storytelling with audio. | `Graphics` `Visualization` |
 
 ---
 
